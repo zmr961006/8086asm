@@ -40,3 +40,7 @@ code segment
         pop cx
         pop bx
         pop ax
+
+code ends
+
+end start
